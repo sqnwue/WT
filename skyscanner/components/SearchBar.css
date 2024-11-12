@@ -1,0 +1,11 @@
+/* src/components/SearchBar.css */
+.search-bar {
+    display: flex;
+    gap: 0.5rem;
+    margin: 1rem 0;
+  }
+  
+  .search-bar input, .search-bar button {
+    padding: 0.5rem;
+  }
+  

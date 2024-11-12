@@ -1,0 +1,13 @@
+/* src/components/FlightResults.css */
+.flight-results {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .flight-card {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  

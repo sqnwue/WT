@@ -1,0 +1,15 @@
+/* src/components/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #022b47;
+    color: white;
+  }
+  
+  .navbar-links a {
+    margin: 0 0.5rem;
+    color: white;
+    text-decoration: none;
+  }
+  
